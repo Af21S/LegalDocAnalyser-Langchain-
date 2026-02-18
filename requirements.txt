@@ -1,0 +1,31 @@
+# Streamlit for the UI
+streamlit==1.28.0
+
+# Transformers and tokenizers for HuggingFace models
+transformers==4.41.0
+tokenizers==0.15.4
+
+# PyTorch for model backend
+torch==2.2.0
+torchvision==0.17.1
+
+# LangChain core and community modules
+langchain==0.2.2
+langchain-llms==0.2.2
+langchain-community==0.2.2
+langchain-huggingface==0.0.37
+
+# FAISS for vector search
+faiss-cpu==1.7.4
+
+# Sentence Transformers for embeddings
+sentence-transformers==2.3.2
+
+# PDF loading and splitting
+PyPDF2==3.1.1
+
+# Matplotlib for plotting
+matplotlib==3.8.0
+
+# Optional: temporary file handling
+python-multipart==1.2.0
